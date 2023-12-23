@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, i AM -> Anurag Maldhure</h1>
+<h1 align="center">Hi 👋, i am ( ____ -> Anurag Maldhure)</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
