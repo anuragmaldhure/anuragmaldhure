@@ -1,7 +1,7 @@
 ![logo](https://github.com/anuragmaldhure/anuragmaldhure/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, i am (___ ->Anurag Maldhure)</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
